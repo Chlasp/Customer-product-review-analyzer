@@ -83,6 +83,4 @@ plt.tight_layout()
 plt.show()
 
 # save to csv
-#df.to_csv("product_sentiment_ratings.csv", index=False)
-
-
+df.to_csv("product_sentiment_ratings.csv", index=False)
