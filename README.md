@@ -120,7 +120,7 @@ Project Link: https://github.com/Chlasp/Customer-product-review-analyzer
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [license-shield]: https://img.shields.io/github/license/github_username/Customer-product-review-analyzer.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/Customer-product-review-analyzer/blob/master/LICENSE.txt
+[license-url]: https://github.com/Chlasp/Customer-product-review-analyzer/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/david-balogun-428a0b329
 [product-screenshot]: images/screenshot.png
